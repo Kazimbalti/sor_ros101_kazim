@@ -5,9 +5,17 @@ ROS: Zero to ROS course
 https://www.udemy.com/course/school-of-ros-zero-to-ros/
 
 ## This is the first assignment 01 (Cylinder weight) of Zero to ROS course
-To run this repository first clone this repository 
-1. git clone https://github.com/Kazimbalti/sor_ros101_kazim/
-2. catkin_ws/src 
+To run this repository first create a catkin workspace
+1. mkdir -p ~/catkin-ws/src
+2. cd ~/catkin_ws/src
+3. catkin_init_workspace
+4. cd ~/catkin_ws
+5. catkin_make 
+
+
+## To clone this repository 
+2. cd catkin_ws/src
+2. git clone https://github.com/Kazimbalti/sor_ros101_kazim/
 3. cd catkin_ws
 4. catkin_make
 
