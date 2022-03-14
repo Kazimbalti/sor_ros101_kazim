@@ -5,6 +5,9 @@ ROS: Zero to ROS course
 https://www.udemy.com/course/school-of-ros-zero-to-ros/
 
 ## This is the first assignment 01 (Cylinder weight) of Zero to ROS course
+### Here is the attached video of this assignment 01 (Cylinder weight calculation).
+https://www.youtube.com/watch?v=kj2rGqjR42g&t=63s
+
 To run this repository first create a catkin workspace
 1. mkdir -p ~/catkin-ws/src
 2. cd ~/catkin_ws/src
